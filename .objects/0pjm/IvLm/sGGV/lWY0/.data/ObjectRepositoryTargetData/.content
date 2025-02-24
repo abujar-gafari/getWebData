@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Mo9s1HKldEWoF9bdyBlMUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/@MrBeast/videos" CVScreenId="fd69e4fa-d8f9-48a1-8aca-6362794f9865" CvTextArea="352, 709, 66, 12" CvType="AnyWordGroup" DesignTimeRectangle="354, 707, 63, 18" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' parentid='metadata-line' tag='SPAN' class='inline-metadata-item style-scope ytd-video-meta-block' /&gt;" Guid="1ac55dd9-17ae-4f37-983a-249df16ac0b5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(186) MrBeast - YouTube' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fd69e4fa-d8f9-48a1-8aca-6362794f9865" CvTextArea="353, 682, 248, 17" CvTextArgument="I Spent 100 Hours Inside The Pyramids!" CvType="Text" DesignTimeRectangle="354, 681, 247, 20" FuzzySelectorArgument="&lt;webctrl aaname='I Spent 100 Hours Inside The Pyramids!' id='video-title' parentid='video-title-link' tag='YT-FORMATTED-STRING' type='' class='style-scope ytd-rich-grid-media' check:innerText='I Spent 100 Hours Inside The Pyramids!' /&gt;" Guid="a99fa78b-6cb2-4437-9f9f-a34dfb877e83" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="fd69e4fa-d8f9-48a1-8aca-6362794f9865" CvTextArea="428, 709, 69, 14" CvTextArgument="2 weeks ago" CvType="Text" DesignTimeRectangle="417, 707, 79, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='2 weeks ago' type='' parentid='metadata-line' tag='SPAN' class='inline-metadata-item style-scope ytd-video-meta-block' check:innerText='2 weeks ago' /&gt;" Guid="5aadf012-f2b8-4f5a-b5c0-70416656d7fa" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4ce48e1d62ac962f8250151135691bfb.png" xmlns="">0z4WQNPWBZ0iNtZXIWpEbkQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

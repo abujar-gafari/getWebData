@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HfC7fUycXESJa4P1qvOzJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/@MrBeast/videos" CVScreenId="fd69e4fa-d8f9-48a1-8aca-6362794f9865" CvTextArea="673, 709, 59, 12" CvType="AnyWordGroup" DesignTimeRectangle="674, 707, 58, 18" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' parentid='metadata-line' tag='SPAN' class='inline-metadata-item style-scope ytd-video-meta-block' /&gt;" Guid="1d331691-13f5-4e50-bc60-abbaaa5e9fc6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(186) MrBeast - YouTube' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fd69e4fa-d8f9-48a1-8aca-6362794f9865" CvTextArea="673, 682, 244, 17" CvTextArgument="Every Minute One Person Is Eliminated" CvType="Text" DesignTimeRectangle="674, 681, 242, 20" FuzzySelectorArgument="&lt;webctrl aaname='Every Minute One Person Is Eliminated' id='video-title' parentid='video-title-link' tag='YT-FORMATTED-STRING' type='' class='style-scope ytd-rich-grid-media' check:innerText='Every Minute One Person Is Eliminated' /&gt;" Guid="291eae1c-3cfd-491b-b4be-8329b284d636" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="fd69e4fa-d8f9-48a1-8aca-6362794f9865" CvTextArea="743, 709, 68, 14" CvTextArgument="4 weeks ago" CvType="Text" DesignTimeRectangle="732, 707, 79, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='4 weeks ago' type='' parentid='metadata-line' tag='SPAN' class='inline-metadata-item style-scope ytd-video-meta-block' check:innerText='4 weeks ago' /&gt;" Guid="58425729-bb08-41a4-a133-ed61e4cf74ab" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2b4c38bca2842e851e06dfefdc0bdff7.png" xmlns="">07a3ofMPwZU-JSAkXdSHE2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

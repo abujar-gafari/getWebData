@@ -1,0 +1,14 @@
+﻿{
+  "Name": "'Every Minute One Person…'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "tHTbfXojNUWBETj2pGTU0Q",
+  "Reference": "cTAdqy9SZEqJt-tvtkvOTg/tHTbfXojNUWBETj2pGTU0Q",
+  "ParentRef": "cTAdqy9SZEqJt-tvtkvOTg/sGGVKDHN1Ea7gcpIC8mOsg",
+  "Created": "2025-02-24T03:39:14.9724733Z",
+  "Updated": "2025-02-24T03:39:14.9724733Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
